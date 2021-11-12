@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hey, you can call me Hiro! ✨
+私は宏之です！
 
+<div>
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandreHiroyuki&count_private=true&show_icons=true&theme=gruvbox" />
+  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreHiroyuki&layout=compact&theme=gruvbox" />
+</div>
+  
 <!--
 **AlexandreHiroyuki/AlexandreHiroyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
