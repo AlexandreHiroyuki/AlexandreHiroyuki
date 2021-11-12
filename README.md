@@ -1,4 +1,4 @@
-# Hey, you can call me Hiro! ✨
+# Hey, you can call me Hiro! 🤝
 私は宏之です！
 
 <div>
@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## Featured Repositories
+## Featured Repositories ✨
 <a href="https://github.com/AlexandreHiroyuki/MovingAverage_ArduinoLibrary">
   <img height="150" alt="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=MovingAverage_ArduinoLibrary&theme=gruvbox" />
 </a>
