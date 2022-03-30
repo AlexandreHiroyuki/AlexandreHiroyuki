@@ -9,8 +9,8 @@
 </div>
 
 ## Featured Repositories ✨
-<a href="https://github.com/AlexandreHiroyuki/MovingAverage_ArduinoLibrary">
-  <img height="150" alt="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=MovingAverage_ArduinoLibrary&theme=gruvbox" />
+<a href="https://github.com/AlexandreHiroyuki/MovingAveragePlus">
+  <img height="150" alt="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=MovingAveragePlus&theme=gruvbox" />
 </a>
   
 <!--
