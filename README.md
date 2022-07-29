@@ -12,10 +12,13 @@
 <a href="https://github.com/AlexandreHiroyuki/MovingAveragePlus">
   <img height="150" alt="Featured Repository Moving Average Plus" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=MovingAveragePlus&theme=gruvbox" />
 </a>
+<a href="https://github.com/AlexandreHiroyuki/ThingsBoardDeviceEmulator">
+  <img height="150" alt="Featured Repository Daily Quote" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=ThingsBoardDeviceEmulator&theme=gruvbox" />
+</a>
 <a href="https://github.com/AlexandreHiroyuki/DailyQuote">
   <img height="150" alt="Featured Repository Daily Quote" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=DailyQuote&theme=gruvbox" />
 </a>
-  
+
 <!--
 **AlexandreHiroyuki/AlexandreHiroyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
