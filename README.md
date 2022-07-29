@@ -1,5 +1,5 @@
 # Hey, you can call me Hiro! 🤝
-私は宏之です！
+私は宏之です。よろしくおねがいします！
 
 <div>
   <a href="https://github.com/AlexandreHiroyuki">
