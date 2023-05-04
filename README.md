@@ -15,11 +15,11 @@
 <a href="https://github.com/AlexandreHiroyuki/ThingsBoardDeviceEmulator">
   <img height="150" alt="Featured Repository Things Board Device Emulator" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=ThingsBoardDeviceEmulator&theme=gruvbox" />
 </a>
+<a href="https://github.com/AlexandreHiroyuki/instant-chat">
+  <img height="150" alt="Featured Repository instant chat" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=instant-chat&theme=gruvbox" />
+</a>
 <a href="https://github.com/AlexandreHiroyuki/DailyQuote">
   <img height="150" alt="Featured Repository Daily Quote" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=DailyQuote&theme=gruvbox" />
-</a>
-<a href="https://github.com/AlexandreHiroyuki/ESP32_Practice_Sketches">
-  <img height="150" alt="Featured Repository ESP32 Practice Sketches" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=ESP32_Practice_Sketches&theme=gruvbox" />
 </a>
 
 <!--
