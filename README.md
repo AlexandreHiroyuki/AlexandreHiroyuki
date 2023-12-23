@@ -9,6 +9,9 @@
 </div>
 
 ## Featured Repositories ✨
+<a href="https://github.com/AlexandreHiroyuki/DataTome">
+  <img height="150" alt="Featured Repository Data Tome" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=DataTome&theme=gruvbox" />
+</a>
 <a href="https://github.com/AlexandreHiroyuki/MovingAveragePlus">
   <img height="150" alt="Featured Repository Moving Average Plus" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=MovingAveragePlus&theme=gruvbox" />
 </a>
@@ -17,9 +20,6 @@
 </a>
 <a href="https://github.com/AlexandreHiroyuki/instant-chat">
   <img height="150" alt="Featured Repository instant chat" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=instant-chat&theme=gruvbox" />
-</a>
-<a href="https://github.com/AlexandreHiroyuki/DailyQuote">
-  <img height="150" alt="Featured Repository Daily Quote" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreHiroyuki&repo=DailyQuote&theme=gruvbox" />
 </a>
 
 <!--
